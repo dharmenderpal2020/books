@@ -1,0 +1,32 @@
+table,th,tr,thead,td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding:10px;
+}
+
+#table1{
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+
+button{
+    background-color: black;
+    color:white;
+    border:none;
+}
+
+#container1{
+    width:500px;
+    padding 20px;
+    background-color: grey;
+    margin:10px;    
+
+}
+
+#container2{
+    width:500px;  
+    margin:10px;   
+   padding:20px;
+   background-color:grey;
+}
